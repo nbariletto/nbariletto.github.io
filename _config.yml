@@ -86,9 +86,9 @@ author:
   location         : "University of Texas at Austin (USA)"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=sqZB8ZEAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=sqZB8ZEAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
