@@ -14,5 +14,5 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Recent preprints and publications
 ======
-1. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _[OSF Preprints](https://osf.io/preprints/osf/brx38)_.
+1. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[PDF here]](https://osf.io/preprints/osf/brx38)
 1. Nguyen, Khai, Nicola Bariletto, and Nhat Ho (2023). "Quasi-Monte Carlo for 3D Sliced Wasserstein." [arXiv preprint arXiv:2309.11713](https://arxiv.org/abs/2309.11713).
