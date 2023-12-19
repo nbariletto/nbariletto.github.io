@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Latest research
+About me
 ======
 Hi! I am a first-year Statistics PhD student in the [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at the University of Texas at Austin. My research interests lie at the intersection of mathematical (Bayesian) statistics, applied probability, and machine learning. I am currently completing doctoral-level coursework and pursuing research with professor [Nhat Ho](https://nhatptnk8912.github.io/).
 
