@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Nicola Bariletto"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
