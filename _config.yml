@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nicola Bariletto"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "University of Texas at Austin, (USA)"
+  bio              : # "Your biography for the left-hand sidebar"
+  location         : "University of Texas at Austin (USA)"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=sqZB8ZEAAAAJ"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "nicola-bariletto-2607681b4"
   orcid            : 
   pinterest        :
   soundcloud       :
