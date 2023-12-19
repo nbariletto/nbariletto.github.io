@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicola's Web Page"
+title                    : "Nicola's Homepage"
 title_separator          : "-"
 name                     : &name "Nicola Bariletto"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nicola Bariletto"
   avatar           : "profile.jpg"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "University of Texas at Austin (USA)"
   employer         :
   pubmed           :
