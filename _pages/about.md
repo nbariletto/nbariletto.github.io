@@ -12,7 +12,7 @@ Hi! I am a first-year Statistics PhD student in the [Department of Statistics an
 
 Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) in Milan, Italy. While a visiting student at the [Bocconi Institute for Data Science and Analytics](https://bidsa.unibocconi.eu/) under the supervision of professor [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/), I wrote my MSc thesis on the probabilistic foundations and methodological advances of Bayesian nonparametric statistics.
 
-Recent preprints/publications
+Recent preprints and publications
 ======
 1. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _[OSF Preprints](https://osf.io/preprints/osf/brx38)_.
 1. Nguyen, Khai, Nicola Bariletto, and Nhat Ho (2023). "Quasi-Monte Carlo for 3D Sliced Wasserstein." [arXiv preprint arXiv:2309.11713](https://arxiv.org/abs/2309.11713).
