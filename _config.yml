@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicola Bariletto"
   avatar           : "profile.jpg"
-  bio              : ""
+  bio              : "E-mail me at nicola.bariletto@utexas.edu"
   location         : "University of Texas at Austin (USA)"
   employer         :
   pubmed           :
   googlescholar    : # "https://scholar.google.com/citations?user=sqZB8ZEAAAAJ"
-  email            : "nicola.bariletto@utexas.edu"
+  email            : 
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
