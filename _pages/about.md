@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my webpage!"
+title: "Nicola Bariletto"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
