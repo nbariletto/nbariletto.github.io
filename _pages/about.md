@@ -18,4 +18,4 @@ Latest research
 
 Recent News
 ====== 
-1. The paper "Quasi-Monte Carlo for 3D Sliced Wasserstein," joint with [Khai Nguyen(https://khainb.com/)] and [Nhat Ho(https://nhatptnk8912.github.io/)], received a spotlight (top 5%) at ICLR 2024! You can read it [here(https://arxiv.org/pdf/2309.11713.pdf)].
+1. The paper "Quasi-Monte Carlo for 3D Sliced Wasserstein," joint with [Khai Nguyen](https://khainb.com/) and [Nhat Ho](https://nhatptnk8912.github.io/), received a spotlight (top 5%) at ICLR 2024! You can read it [here(https://arxiv.org/pdf/2309.11713.pdf)].
