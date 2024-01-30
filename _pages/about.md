@@ -13,5 +13,9 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Latest research
 ======
-1. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[pdf](https://osf.io/preprints/osf/brx38)]
-1. Nguyen, Khai, Nicola Bariletto, and Nhat Ho (2023). "Quasi-Monte Carlo for 3D Sliced Wasserstein." _arXiv preprint arXiv:2309.11713_. [[pdf](https://arxiv.org/pdf/2309.11713.pdf)]
+1. Bariletto, Nicola, Nhat Ho (2024). "Bayesian Nonparametrics Meets Data-Driven Robust Optimization." _arXiv preprint arXiv:2401.15771_. [[pdf](https://arxiv.org/pdf/2401.15771.pdf)]
+2. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[pdf](https://osf.io/preprints/osf/brx38)]
+
+Recent News
+====== 
+The paper "Quasi-Monte Carlo for 3D Sliced Wasserstein," joint with [[Khai Nguyen] (https://khainb.com/)] and [[Nhat Ho](https://nhatptnk8912.github.io/)], received a spotlight (top 5%) at ICLR 2024! You can read it [[here](https://arxiv.org/pdf/2309.11713.pdf)].
