@@ -11,9 +11,9 @@ I am a first-year Statistics PhD student in the [Department of Statistics and Da
 
 Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) in Milan, Italy. While a visiting student at the [Bocconi Institute for Data Science and Analytics](https://bidsa.unibocconi.eu/) under the supervision of professor [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/), I wrote my MSc thesis on probabilistic and methodological aspects of Bayesian nonparametric statistics. In 2022-23, I was also part of the European Research Grant [LOSS Project](https://dondena.unibocconi.eu/research-projects/loss) team, led by professor [Catherine De Vries](https://www.catherinedevries.eu/).
 
-Latest research
+Ongoing research
 ======
-1. Bariletto, Nicola, Nhat Ho (2024). "Bayesian Nonparametrics Meets Data-Driven Robust Optimization." _arXiv preprint arXiv:2401.15771_. [[pdf](https://arxiv.org/pdf/2401.15771.pdf)]
+1. Bariletto, Nicola, Nhat Ho (2024). "Bayesian Nonparametrics Meets Data-Driven Robust Optimization." _ArXiv preprint arXiv:2401.15771_. [[pdf](https://arxiv.org/pdf/2401.15771.pdf)]
 2. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[pdf](https://osf.io/preprints/osf/brx38)]
 
 Recent News
