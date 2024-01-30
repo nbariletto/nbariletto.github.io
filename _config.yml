@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicola Bariletto's Homepage"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Nicola Bariletto"
 description              : &description "personal description"
