@@ -13,9 +13,10 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Ongoing research
 ======
-1. Bariletto, Nicola, Nhat Ho (2024). "Bayesian Nonparametrics Meets Data-Driven Robust Optimization." _ArXiv preprint arXiv:2401.15771_. [[pdf](https://arxiv.org/pdf/2401.15771.pdf)]
-2. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[pdf](https://osf.io/preprints/osf/brx38)]
+1. Bariletto, Nicola, Khai Nguyen, and Nhat Ho. (2024). Borrowing Strength in Distributionally Robust Optimization via Hierarchical Dirichlet Processes.  _ArXiv preprint arXiv:2405.13160_. [[pdf](https://arxiv.org/pdf/2405.13160)]
+2. Bariletto, Nicola, Nhat Ho (2024). "Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization." _ArXiv preprint arXiv:2401.15771_. [[pdf](https://arxiv.org/pdf/2401.15771.pdf)]
+3. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[pdf](https://osf.io/preprints/osf/brx38)]
 
-Recent News
-====== 
-1. The paper "Quasi-Monte Carlo for 3D Sliced Wasserstein," joint with [Khai Nguyen](https://khainb.com/) and [Nhat Ho](https://nhatptnk8912.github.io/), received a spotlight (top 5%) at ICLR 2024! You can read it [here](https://arxiv.org/pdf/2309.11713.pdf).
+# Recent News
+# ====== 
+# 1. The paper "Quasi-Monte Carlo for 3D Sliced Wasserstein," joint with [Khai Nguyen](https://khainb.com/) and [Nhat Ho](https://nhatptnk8912.github.io/), received a spotlight (top 5%) at ICLR 2024! You can read it [here](https://arxiv.org/pdf/2309.11713.pdf).
