@@ -11,8 +11,11 @@ I am a second-year Statistics PhD student in the [Department of Statistics and D
 
 Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home) in Milan, Italy. While a visiting student at the [Bocconi Institute for Data Science and Analytics](https://bidsa.unibocconi.eu/) under the supervision of professor [Igor Prünster](https://mypage.unibocconi.eu/igorpruenster/), I wrote my MSc thesis on probabilistic and methodological aspects of Bayesian nonparametric statistics. In 2022-23, I was also part of the European Research Grant [LOSS Project](https://dondena.unibocconi.eu/research-projects/loss) team, led by professor [Catherine De Vries](https://www.catherinedevries.eu/).
 
+Recent News
+======
+My paper "Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization" (joint with Nhat Ho) has been accepted at NeurIPS 2024! You can find it on arXiv at the following [[link](https://arxiv.org/pdf/2401.15771.pdf)].
+
 Ongoing research
 ======
 1. Bariletto, Nicola, Khai Nguyen, and Nhat Ho. (2024). Borrowing Strength in Distributionally Robust Optimization via Hierarchical Dirichlet Processes.  _ArXiv preprint arXiv:2405.13160_. [[pdf](https://arxiv.org/pdf/2405.13160)]
-2. Bariletto, Nicola, Nhat Ho (2024). "Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization." _ArXiv preprint arXiv:2401.15771_. [[pdf](https://arxiv.org/pdf/2401.15771.pdf)]
-3. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[pdf](https://osf.io/preprints/osf/brx38)]
+2. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[pdf](https://osf.io/preprints/osf/brx38)]
