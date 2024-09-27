@@ -13,7 +13,7 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Recent News
 ======
-My paper "Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization" (joint with Nhat Ho) has been accepted at NeurIPS 2024! You can find it on arXiv at the following [[link](https://arxiv.org/pdf/2401.15771.pdf)].
+My paper "Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization" (joint with Nhat Ho) has been accepted at NeurIPS 2024! You can find it on arXiv at the following [link](https://arxiv.org/pdf/2401.15771.pdf).
 
 Ongoing research
 ======
