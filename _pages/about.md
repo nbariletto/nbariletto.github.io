@@ -13,9 +13,9 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Recent News
 ======
-My paper "Bayesian Nonparametrics Meets Data-Driven Distributionally Robust Optimization" (joint with Nhat Ho) has been accepted at NeurIPS 2024! You can find it on arXiv at the following [link](https://arxiv.org/pdf/2401.15771.pdf).
+Our paper "Without Roots: The Political Consequences of Collective Economic Shocks" (joint with Simone Cremaschi and Catherine De Vries) has been accepted at the Americal Political Science Review! You can find a pre-print version [here](https://osf.io/preprints/osf/brx38).
 
 Ongoing research
 ======
 1. Bariletto, Nicola, Khai Nguyen, and Nhat Ho. (2024). Borrowing Strength in Distributionally Robust Optimization via Hierarchical Dirichlet Processes.  _ArXiv preprint arXiv:2405.13160_. [[pdf](https://arxiv.org/pdf/2405.13160)]
-2. Cremaschi, Simone, Nicola Bariletto, and Catherine E. De Vries (2023). "Without Roots: The Political Consequences of Plant Disease Epidemics." _OSF Preprints_. [[pdf](https://osf.io/preprints/osf/brx38)]
+
