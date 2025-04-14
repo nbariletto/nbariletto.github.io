@@ -13,9 +13,9 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Recent News
 ======
-Our paper "Without Roots: The Political Consequences of Collective Economic Shocks" (joint with Simone Cremaschi and Catherine De Vries) has been accepted at the Americal Political Science Review! You can find a pre-print version [here](https://osf.io/preprints/osf/brx38).
+Our paper "Without Roots: The Political Consequences of Collective Economic Shocks" (joint with Simone Cremaschi and Catherine De Vries) has been accepted at the American Political Science Review! You can read it [here](https://www.cambridge.org/core/journals/american-political-science-review/article/without-roots-the-political-consequences-of-collective-economic-shocks/1BA32999CD907689CA66A6CB06B8519B).
 
 Ongoing research
 ======
-1. Bariletto, Nicola, Khai Nguyen, and Nhat Ho. (2024). Borrowing Strength in Distributionally Robust Optimization via Hierarchical Dirichlet Processes.  _ArXiv preprint arXiv:2405.13160_. [[pdf](https://arxiv.org/pdf/2405.13160)]
+1. Bariletto, Nicola, Khai Nguyen, and Nhat Ho. (2025). Data-Driven DRO and Economic Decision Theory: An Analytical Synthesis With Bayesian Nonparametric Advancements.  _ArXiv preprint arXiv:2405.13160_. [[pdf](https://arxiv.org/pdf/2405.13160)]
 
