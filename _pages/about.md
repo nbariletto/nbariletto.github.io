@@ -17,5 +17,6 @@ Our paper "Without Roots: The Political Consequences of Collective Economic Shoc
 
 Ongoing research
 ======
-1. Bariletto, Nicola, Khai Nguyen, and Nhat Ho. (2025). Data-Driven DRO and Economic Decision Theory: An Analytical Synthesis With Bayesian Nonparametric Advancements.  _ArXiv preprint arXiv:2405.13160_. [[pdf](https://arxiv.org/pdf/2405.13160)]
+1. Bariletto, Nicola, Bernardo Flores, and Stephen G. Walker (2025). Posterior Consistency in Parametric Models via a Tighter Notion of Identifiability. _ArXiv preprint arXiv:2504.11360_. [[pdf](https://arxiv.org/pdf/2504.11360)]
+2. Bariletto, Nicola, Khai Nguyen, and Nhat Ho (2025). Data-Driven DRO and Economic Decision Theory: An Analytical Synthesis With Bayesian Nonparametric Advancements. _ArXiv preprint arXiv:2405.13160_. [[pdf](https://arxiv.org/pdf/2405.13160)]
 
