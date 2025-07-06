@@ -13,7 +13,7 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Recent News
 ======
-Our paper "Without Roots: The Political Consequences of Collective Economic Shocks" (joint with Simone Cremaschi and Catherine De Vries) has been accepted at the American Political Science Review! You can read it [here](https://www.cambridge.org/core/journals/american-political-science-review/article/without-roots-the-political-consequences-of-collective-economic-shocks/1BA32999CD907689CA66A6CB06B8519B).
+My poster, based on the paper "Posterior Consistency in Parametric Models via a Tighter Notion of Identifiability" (joint with Bernardo Flores and Stephen G. Walker), won a best paper award (second place) at the 14th International Conference on Bayesian Nonparametrics (June 2025, UCLA)! You can read the article [[here](https://arxiv.org/pdf/2504.11360)].
 
 Ongoing research
 ======
