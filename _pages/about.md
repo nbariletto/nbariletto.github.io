@@ -13,7 +13,7 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Recent News
 ======
-My poster, based on the preprint "Posterior Consistency in Parametric Models via a Tighter Notion of Identifiability" (joint with Bernardo Flores and Stephen G. Walker), won a best paper award (second place) at the 14th International Conference on Bayesian Nonparametrics held at UCLA in June 2025! You can read the article [[here](https://arxiv.org/pdf/2504.11360)].
+I won a best poster award (second place) at the 14th International Conference on Bayesian Nonparametrics held at UCLA in June 2025! You can read the underlying research [[here](https://arxiv.org/pdf/2504.11360)].
 
 Ongoing research
 ======
