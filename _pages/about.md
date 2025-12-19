@@ -13,7 +13,7 @@ Before moving to Austin, I completed my Bachelor's and Master's studies at [Bocc
 
 Recent News
 ======
-I won a best poster award (second place) at the 14th International Conference on Bayesian Nonparametrics held at UCLA in June 2025! You can read the underlying research [[here](https://arxiv.org/pdf/2504.11360)].
+Check out this [tutorial](https://nbariletto.github.io/cbi_partitions_repo/) on my Python software `cbi_partitions`, implementing Conformalized Bayesian Inference for random partition models! See the research paper [here](https://arxiv.org/pdf/2511.05746).
 
 Ongoing research
 ======
