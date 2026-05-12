@@ -24,6 +24,6 @@ Ongoing research
 5. Bariletto, Nicola, and Stephen G. Walker (2025). On A Necessary Condition For Posterior Inconsistency: New Insights From A Classic Counterexample. _ArXiv preprint arXiv:2510.18126_. [[pdf](https://arxiv.org/pdf/2510.18126)]
 6. Bariletto, Nicola, Bernardo Flores, and Stephen G. Walker (2025). Posterior Consistency in Parametric Models via a Tighter Notion of Identifiability. _ArXiv preprint arXiv:2504.11360_. [[pdf](https://arxiv.org/pdf/2504.11360)]
 
-* denotes equal contribution.
+\* denotes equal contribution.
 
 
