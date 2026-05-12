@@ -17,9 +17,9 @@ Check out this [tutorial](https://nbariletto.github.io/cbi_partitions_repo/) on 
 
 Ongoing research
 ======
-1. Bariletto, Nicola*, Dung Le*, Alessandro Rinaldo, and Nhat Ho (2026). Convergence Rates for Latent Mixing Measures in Infinite Homoscedastic Location-Scale Mixture Models. _ArXiv preprint arXiv:2605.06845_. [[pdf](https://arxiv.org/pdf/2605.06845)] 
+1. Bariletto, Nicola\*, Dung Le\*, Alessandro Rinaldo, and Nhat Ho (2026). Convergence Rates for Latent Mixing Measures in Infinite Homoscedastic Location-Scale Mixture Models. _ArXiv preprint arXiv:2605.06845_. [[pdf](https://arxiv.org/pdf/2605.06845)] 
 2. Bariletto, Nicola, and Stephen G. Walker (2026). Scalable Posterior Uncertainty for Flexible Density-Based Clustering. _ArXiv preprint arXiv:2603.03188_. [[pdf](https://arxiv.org/pdf/2603.03188)]
-3. Bariletto, Nicola*, Huy Nguyen*, Nhat Ho, and Alessandro Rinaldo (2026). On Bayesian Softmax-Gated Mixture-of-Experts Models. _ArXiv preprint arXiv:2604.20551_. [[pdf](https://arxiv.org/pdf/2604.20551)]
+3. Bariletto, Nicola\*, Huy Nguyen\*, Nhat Ho, and Alessandro Rinaldo (2026). On Bayesian Softmax-Gated Mixture-of-Experts Models. _ArXiv preprint arXiv:2604.20551_. [[pdf](https://arxiv.org/pdf/2604.20551)]
 4. Bariletto, Nicola, Nhat Ho, and Alessandro Rinaldo (2025). Conformalized Bayesian Inference, with Applications to Random Partition Models. _ArXiv preprint arXiv:2511.05746_. [[pdf](https://arxiv.org/pdf/2511.05746)]
 5. Bariletto, Nicola, and Stephen G. Walker (2025). On A Necessary Condition For Posterior Inconsistency: New Insights From A Classic Counterexample. _ArXiv preprint arXiv:2510.18126_. [[pdf](https://arxiv.org/pdf/2510.18126)]
 6. Bariletto, Nicola, Bernardo Flores, and Stephen G. Walker (2025). Posterior Consistency in Parametric Models via a Tighter Notion of Identifiability. _ArXiv preprint arXiv:2504.11360_. [[pdf](https://arxiv.org/pdf/2504.11360)]
