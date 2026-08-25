@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Below is a list of my research articles, where the symbol \* denotes equal contribution. You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
+Below is a list of my research articles and book chapters, where the symbol \* denotes equal contribution. You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
 
 Preprints
 ------
