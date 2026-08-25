@@ -54,10 +54,9 @@ K. Nguyen, N. Bariletto, and N. Ho (2024). "Quasi-Monte Carlo for 3D Sliced Wass
 
 S. Siwakoti, K. Yadav, I. Thange, N. Bariletto, L. Zanotti, A. Ghoneim, and J. N. Shapiro (2021). "Localized Misinformation in a Global Pandemic: Report on COVID-19 Narratives Around the World." *Empirical Studies of Conflict Project*, Princeton, NJ: Princeton University. [[link]](https://esoc.princeton.edu/publications/localized-misinformation-global-pandemic-report-covid-19-narratives-around-world)
 
-I. Thange, N. Bariletto, L. Zanotti, J. Rob, S. Siwakoti, and J. N. Shapiro (2020). "How Russia, China, and Other Governments Use Coronavirus Disinformation to Reshape Geopolitics." *Bulletin of the Atomic Scientists*. [[link]](https://thebulletin.org/2020/10/how-russia-china-and-other-governments-use-coronavirus-disinformation-to-reshape-geopolitics/)
-
 S. Siwakoti, K. Yadav, N. Bariletto, L. Zanotti, U. Erdogdu, and J. N. Shapiro (2021). "How COVID Drove the Evolution of Fact-Checking." *Harvard Kennedy School Misinformation Review*. [[link]](https://misinforeview.hks.harvard.edu/article/how-covid-drove-the-evolution-of-fact-checking/)
 
+I. Thange, N. Bariletto, L. Zanotti, J. Rob, S. Siwakoti, and J. N. Shapiro (2020). "How Russia, China, and Other Governments Use Coronavirus Disinformation to Reshape Geopolitics." *Bulletin of the Atomic Scientists*. [[link]](https://thebulletin.org/2020/10/how-russia-china-and-other-governments-use-coronavirus-disinformation-to-reshape-geopolitics/)
 
 
 
