@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>. The symbol \* denotes equal contribution.
+Below is a list of my research articles, where the symbol \* denotes equal contribution. You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
 
 Preprints
 ------
@@ -57,3 +57,13 @@ S. Siwakoti, K. Yadav, I. Thange, N. Bariletto, L. Zanotti, A. Ghoneim, and J. N
 I. Thange, N. Bariletto, L. Zanotti, J. Rob, S. Siwakoti, and J. N. Shapiro (2020). "How Russia, China, and Other Governments Use Coronavirus Disinformation to Reshape Geopolitics." *Bulletin of the Atomic Scientists*. [[link]](https://thebulletin.org/2020/10/how-russia-china-and-other-governments-use-coronavirus-disinformation-to-reshape-geopolitics/)
 
 S. Siwakoti, K. Yadav, N. Bariletto, L. Zanotti, U. Erdogdu, and J. N. Shapiro (2021). "How COVID Drove the Evolution of Fact-Checking." *Harvard Kennedy School Misinformation Review*. [[link]](https://misinforeview.hks.harvard.edu/article/how-covid-drove-the-evolution-of-fact-checking/)
+
+
+
+
+
+
+Book chapters
+------
+
+Agostinelli, C., Aitchison, L., Aldea, E., Allmendinger, R., Ament, S., Anson, B., Arbel, J., Bakshy, E., Balandat, M., Bariletto, N., Bickford Smith, F., Biggio, B., Caprio, M., Chada, N., Chen, W., Chen, W., Da Costa, N., Daheim, N., Damianou, A., … Zhou, Y. (2026). "Handbook of Bayesian Deep Learning." *Zenodo.* [[link]](https://zenodo.org/records/22086450)
