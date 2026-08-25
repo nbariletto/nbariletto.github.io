@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>. The symbol \* denotes equal contribution.
 
 Preprints
-======
+------
 
 D. Le\*, N. Bariletto\*, A. Rinaldo, and N. Ho (2026). "Partial Differential Equation Barriers to Identifiability in Infinite Mixture Models." *arXiv preprint arXiv:2608.08597*. [[link]](https://arxiv.org/abs/2608.08597)
 
@@ -22,7 +22,7 @@ N. Bariletto, K. Nguyen, and N. Ho (2024). "Data-Driven DRO and Economic Decisio
 
 
 Submitted articles
-======
+------
 
 N. Bariletto and S. G. Walker (2026). "On the Geometry of Weak Convergence Without Total Variation Convergence." *arXiv preprint*. [[link]](https://arxiv.org/abs/2608.03290)
 
@@ -44,7 +44,7 @@ N. Bariletto, B. Flores, and S. G. Walker (2025). "Posterior Consistency in Para
 
 
 Published articles
-======
+------
 
 S. Cremaschi, N. Bariletto, and C. E. De Vries (2025). "Without Roots: The Political Consequences of Collective Economic Shocks." *American Political Science Review*, 119(4):1963–1982. [[link]](https://www.cambridge.org/core/journals/american-political-science-review/article/without-roots-the-political-consequences-of-collective-economic-shocks/1BA32999CD907689CA66A6CB06B8519B)
 
