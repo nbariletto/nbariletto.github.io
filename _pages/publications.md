@@ -7,12 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
+You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>. The symbol \* denotes equal contribution.
 
 Preprints
 ======
 
-D. Le, N. Bariletto, A. Rinaldo, and N. Ho (2026). "Partial Differential Equation Barriers to Identifiability in Infinite Mixture Models." *arXiv preprint arXiv:2608.08597*. [[link]](https://arxiv.org/abs/2608.08597)
+D. Le\*, N. Bariletto\*, A. Rinaldo, and N. Ho (2026). "Partial Differential Equation Barriers to Identifiability in Infinite Mixture Models." *arXiv preprint arXiv:2608.08597*. [[link]](https://arxiv.org/abs/2608.08597)
 
 N. Bariletto, K. Nguyen, and N. Ho (2024). "Data-Driven DRO and Economic Decision Theory: An Analytical Synthesis with Bayesian Nonparametric Advancements." *arXiv preprint arXiv:2405.13160*. [[link]](https://arxiv.org/abs/2405.13160
 
@@ -26,7 +26,7 @@ Submitted articles
 
 N. Bariletto and S. G. Walker (2026). "On the Geometry of Weak Convergence Without Total Variation Convergence." *arXiv preprint*. [[Google Scholar]]([link](https://arxiv.org/abs/2608.03290))
 
-N. Bariletto, D. Le, A. Rinaldo, and N. Ho (2026). "Convergence Rates for Latent Mixing Measures in Infinite Homoscedastic Location-Scale Mixture Models." *arXiv preprint arXiv:2605.06845*. [[link]](https://arxiv.org/abs/2605.06845)
+N. Bariletto\*, D. Le\*, A. Rinaldo, and N. Ho (2026). "Convergence Rates for Latent Mixing Measures in Infinite Homoscedastic Location-Scale Mixture Models." *arXiv preprint arXiv:2605.06845*. [[link]](https://arxiv.org/abs/2605.06845)
 
 N. Bariletto and S. G. Walker (2026). "Scalable Posterior Uncertainty for Flexible Density-Based Clustering." *arXiv preprint arXiv:2603.03188*. [[link]](https://arxiv.org/abs/2603.03188)
 
