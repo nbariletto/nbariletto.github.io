@@ -57,7 +57,13 @@ Published articles
 - S. Siwakoti, K. Yadav, N. Bariletto, L. Zanotti, U. Erdogdu, and J. N. Shapiro (2021). "How COVID Drove the Evolution of Fact-Checking." *Harvard Kennedy School Misinformation Review*. [[link]](https://misinforeview.hks.harvard.edu/article/how-covid-drove-the-evolution-of-fact-checking/)
 
 - I. Thange, N. Bariletto, L. Zanotti, J. Rob, S. Siwakoti, and J. N. Shapiro (2020). "How Russia, China, and Other Governments Use Coronavirus Disinformation to Reshape Geopolitics." *Bulletin of the Atomic Scientists*. [[link]](https://thebulletin.org/2020/10/how-russia-china-and-other-governments-use-coronavirus-disinformation-to-reshape-geopolitics/)
+
+
+
+
+
+
 Book chapters
 ------
 
-Agostinelli, C., Aitchison, L., Aldea, E., Allmendinger, R., Ament, S., Anson, B., Arbel, J., Bakshy, E., Balandat, M., Bariletto, N., Bickford Smith, F., Biggio, B., Caprio, M., Chada, N., Chen, W., Chen, W., Da Costa, N., Daheim, N., Damianou, A., … Zhou, Y. (2026). "Handbook of Bayesian Deep Learning." *Zenodo.* [[link]](https://zenodo.org/records/22086450)
+- Agostinelli, C., Aitchison, L., Aldea, E., Allmendinger, R., Ament, S., Anson, B., Arbel, J., Bakshy, E., Balandat, M., Bariletto, N., Bickford Smith, F., Biggio, B., Caprio, M., Chada, N., Chen, W., Chen, W., Da Costa, N., Daheim, N., Damianou, A., … Zhou, Y. (2026). "Handbook of Bayesian Deep Learning." *Zenodo.* [[link]](https://zenodo.org/records/22086450)
