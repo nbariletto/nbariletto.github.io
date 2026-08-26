@@ -9,6 +9,8 @@ author_profile: true
 
 - 18th World Meeting of the International Society for Bayesian Analysis, June–July 2026, Nagoya, Japan — poster presentation
 
+- 10th Bayesian Young Statisticians Meeting (BAYSM 2026), June 2026, Chiba, Japan — poster presentation
+
 - International Symposium on Nonparametric Statistics, June 2026, Thessaloniki, Greece — invited talk
 
 - ICERM Workshop on Nonparametric Bayesian Inference – Computational Issues, January 2026, Providence, USA — lightning talk
