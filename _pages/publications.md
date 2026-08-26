@@ -30,7 +30,7 @@ Submitted articles
 
 - N. Bariletto and S. G. Walker (2026). "Scalable Posterior Uncertainty for Flexible Density-Based Clustering." *arXiv preprint arXiv:2603.03188*. [[link]](https://arxiv.org/abs/2603.03188)
 
-- N. Bariletto, H. Nguyen, N. Ho, and A. Rinaldo (2026). "On Bayesian Softmax-Gated Mixture-of-Experts Models." *arXiv preprint arXiv:2604.20551*. [[link]](https://arxiv.org/abs/2604.20551)
+- N. Bariletto\*, H. Nguyen\*, N. Ho, and A. Rinaldo (2026). "On Bayesian Softmax-Gated Mixture-of-Experts Models." *arXiv preprint arXiv:2604.20551*. [[link]](https://arxiv.org/abs/2604.20551)
 
 - N. Bariletto, N. Ho, and A. Rinaldo (2025). "Conformalized Bayesian Inference, with Applications to Random Partition Models." *arXiv preprint arXiv:2511.05746*. [[link]](https://arxiv.org/abs/2511.05746)
 
