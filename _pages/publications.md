@@ -24,7 +24,7 @@ Preprints
 Submitted articles
 ------
 
-- N. Bariletto and S. G. Walker (2026). "On the Geometry of Weak Convergence Without Total Variation Convergence." *arXiv preprint*. [[link]](https://arxiv.org/abs/2608.03290)
+- N. Bariletto and S. G. Walker (2026). "On the Geometry of Weak Convergence Without Total Variation Convergence." *arXiv preprint 	arXiv:2608.03290*. [[link]](https://arxiv.org/abs/2608.03290)
 
 - N. Bariletto\*, D. Le\*, A. Rinaldo, and N. Ho (2026). "Convergence Rates for Latent Mixing Measures in Infinite Homoscedastic Location-Scale Mixture Models." *arXiv preprint arXiv:2605.06845*. [[link]](https://arxiv.org/abs/2605.06845)
 
