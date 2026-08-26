@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year PhD candidate in the [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at the University of Texas at Austin. I am currently pursuing research with professors [Stephen G. Walker](https://www.ma.utexas.edu/component/cobalt/item/15-mathematics/385-walker-stephen-g?Itemid=1259) (as main advisor), [Nhat Ho](https://nhatptnk8912.github.io/), and [Alessandro Rinaldo](https://arinaldo.github.io/) (as joint co-advisors). My research interests lie at the intersection of mathematical (Bayesian) statistics, applied probability, and machine learning. Some specific topics on which my work focuses include:
+I am a fourth-year PhD candidate in the [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at the University of Texas at Austin. I am currently pursuing research with professors [Stephen G. Walker](https://www.ma.utexas.edu/component/cobalt/item/15-mathematics/385-walker-stephen-g?Itemid=1259) (as main advisor), [Nhat Ho](https://nhatptnk8912.github.io/), and [Alessandro Rinaldo](https://arinaldo.github.io/) (as joint co-advisors). My research interests lie at the intersection of mathematical (Bayesian) statistics, applied probability, and machine learning, with specific topics including:
 
 - the foundations of Bayesian asymptotic theory,
 - estimation and identifiability in infinite mixture models,
