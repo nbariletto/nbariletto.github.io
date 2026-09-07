@@ -27,11 +27,11 @@ Submitted articles
 
 - N. Bariletto\*, H. Nguyen\*, N. Ho, and A. Rinaldo (2026). "On Bayesian Softmax-Gated Mixture-of-Experts Models." *arXiv preprint arXiv:2604.20551*. [[link]](https://arxiv.org/abs/2604.20551)
 
-- N. Bariletto, N. Ho, and A. Rinaldo (2025). "Conformalized Bayesian Inference, with Applications to Random Partition Models." *arXiv preprint arXiv:2511.05746*. [[link]](https://arxiv.org/abs/2511.05746) — *Major revision at Bayesian Analysis*
+- N. Bariletto, N. Ho, and A. Rinaldo (2025). "Conformalized Bayesian Inference, with Applications to Random Partition Models." *arXiv preprint arXiv:2511.05746*. [[link]](https://arxiv.org/abs/2511.05746) — **Major revision at Bayesian Analysis**
 
-- N. Bariletto and S. G. Walker (2025). "On a Necessary Condition for Posterior Inconsistency: New Insights from a Classic Counterexample." *arXiv preprint arXiv:2510.18126*. [[link]](https://arxiv.org/abs/2510.18126) — *Minor revision at the Journal of Nonparametric Statistics*
+- N. Bariletto and S. G. Walker (2025). "On a Necessary Condition for Posterior Inconsistency: New Insights from a Classic Counterexample." *arXiv preprint arXiv:2510.18126*. [[link]](https://arxiv.org/abs/2510.18126) — **Minor revision at the Journal of Nonparametric Statistics**
 
-- N. Bariletto, B. Flores, and S. G. Walker (2025). "Posterior Consistency in Parametric Models via a Tighter Notion of Identifiability." *arXiv preprint arXiv:2504.11360*. [[link]](https://arxiv.org/abs/2504.11360) — *Invited revision at Statistical Science*
+- N. Bariletto, B. Flores, and S. G. Walker (2025). "Posterior Consistency in Parametric Models via a Tighter Notion of Identifiability." *arXiv preprint arXiv:2504.11360*. [[link]](https://arxiv.org/abs/2504.11360) — **Invited resubmission at Statistical Science**
 
 
 
