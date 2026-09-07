@@ -9,12 +9,12 @@ redirect_from:
 ---
 I am a fourth-year PhD candidate in the [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at the University of Texas at Austin. I am currently pursuing research with professors [Stephen G. Walker](https://www.ma.utexas.edu/component/cobalt/item/15-mathematics/385-walker-stephen-g?Itemid=1259) (as main advisor), [Nhat Ho](https://nhatptnk8912.github.io/), and [Alessandro Rinaldo](https://arinaldo.github.io/) (as joint co-advisors). My research interests lie at the intersection of statistical theory and methodology, applied probability, and machine learning, including topics such as:
 
-- Bayesian asymptotics foundations,
+- foundational theory of Bayesian asymptotics,
 - estimation and identifiability in infinite mixture models,
 - mixture-of-experts models,
 - model- and density-based clustering,
 - martingale posterior distributions for large-scale data,
-- applications of conformal prediction to Bayesian methodology,
+- applications of conformal prediction,
 - convergence of probability measures,
 - distributionally robust optimization.
 
