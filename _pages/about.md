@@ -14,7 +14,7 @@ I am a fourth-year PhD candidate in the [Department of Statistics and Data Scien
 - mixture-of-experts models,
 - model- and density-based clustering,
 - martingale posterior distributions,
-- applications of conformal prediction,
+- conformal prediction,
 - convergence of probability measures,
 - distributionally robust optimization.
 
