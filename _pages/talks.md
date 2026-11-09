@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+- BayesComp 2027, May 2027 (upcoming), College Station, USA — invited talk
+  
+- Seminar at LUISS University's Department of AI, Data and Decision Sciences, December 2026 (upcoming), Rome, Italy — invited talk
+  
+- UT Austin's Dept. of Mathematics Junior Probability Seminar, October 2026, Austin, USA — board talk
+
 - 18th World Meeting of the International Society for Bayesian Analysis, June–July 2026, Nagoya, Japan — poster presentation
 
 - 10th Bayesian Young Statisticians Meeting (BAYSM 2026), June 2026, Chiba, Japan — poster presentation
